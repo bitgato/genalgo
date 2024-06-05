@@ -1,4 +1,4 @@
-# genalgo
+# GenAlgo
 
 C++ implementations of SGA and NSGA-II for solving multi-objective optimization
 problem. The benchmark function used by default is SCH2.
